@@ -20,8 +20,8 @@
   ##
   
   <div> 
-  <a href = "mailto:marcosmeloti@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-6610F2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">     </a>
-  <a href="https://www.linkedin.com/in/marcosmeloti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosmeloti" target="_blank">
+  <a href = "mailto:marcosmeloti@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-A910F2?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">     </a>
+  <a href="https://www.linkedin.com/in/marcosmeloti" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-A910F2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosmeloti" target="_blank">
    </a> 
     
   </div>
