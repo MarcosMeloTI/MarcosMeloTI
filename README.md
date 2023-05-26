@@ -1,7 +1,7 @@
 ## Olá!! Eu sou o Marcos Melo 😊
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas 5/5
-- 👨‍💻 Estagiário de Hardware no Grupo Parvi
+- 👨‍💻 Estagiário de Desenvolvimento Front-End no Grupo Parvi
 
  <div>
   <a href="https://github.com/MarcosMeloTI">
