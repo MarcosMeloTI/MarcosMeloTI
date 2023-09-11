@@ -1,6 +1,7 @@
 ## Olá!! Eu sou o Marcos Melo 😊
 
-- 📚 Graduado em Análise e Desenvolvimento de Sistemas
+- 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 📚 Pós-graduando em Engenharia Ágil de Software
 - 👨‍💻 Estagiário de Desenvolvimento Front-End no Grupo Parvi
 
  <div>
