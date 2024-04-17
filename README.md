@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
 - 📚 Pós-graduando em Engenharia Ágil de Software
-- 👨‍💻 Estagiário de Desenvolvimento Front-End no Grupo Parvi
+- 👨‍💻 Desenvolvedor Fullstack no Grupo Parvi
 
  <div>
   <a href="https://github.com/MarcosMeloTI">
