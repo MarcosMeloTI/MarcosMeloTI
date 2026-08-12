@@ -1,8 +1,8 @@
 ## Olá!! Eu sou o Marcos Melo 😊
 
 - 👨🏻‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 📚 Pós-graduando em Engenharia Ágil de Software
-- 👨‍💻 Desenvolvedor Fullstack no Grupo Parvi
+- 📚 Pós-graduado em Engenharia Ágil de Software
+- 👨‍💻 Desenvolvedor Fullstack Pleno no Grupo Parvi
 
  <div>
   <a href="https://github.com/MarcosMeloTI">
